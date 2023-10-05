@@ -21,7 +21,6 @@ body {
     height: 250px;
     animation: spinner-y0fdc1 10s infinite ease;
     transform-style: preserve-3d;
-    
    }
    
    .spinner > div {
