@@ -11,7 +11,15 @@ body {
 }
 .tank {
     position: absolute;
-    top: 500px;
+    top: 400px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    /* border: 2px solid rgb(0, 255, 13); */
+    }
+
+.end {
+    position: absolute;
+    top: 750px;
     left: 50%;
     transform: translate(-50%, 0%);
     /* border: 2px solid rgb(0, 255, 13); */
